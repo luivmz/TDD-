@@ -1,0 +1,8 @@
+{
+  "permissions": {
+    "allow": [
+      "PowerShell(Remove-Item \"D:\\\\Personal\\\\SpringBoot_Java\\\\Conti_talent_Back\\\\demo_prueba\\\\demo\\\\demo\\\\src\\\\main\\\\java\\\\com\\\\example\\\\demo\\\\controller\\\\TaskController.java\" -Confirm:$false)",
+      "mcp__Claude_in_Chrome__tabs_context_mcp"
+    ]
+  }
+}
